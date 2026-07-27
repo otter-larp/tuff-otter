@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    font-family: "Terminus",  monospace;
 }
 h1 {
     color: rgb(0, 255, 0);
