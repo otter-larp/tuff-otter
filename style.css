@@ -17,3 +17,6 @@ button {
     border: none;
     text-align: center;
 }
+img {
+    border-radius: 25px;
+}
